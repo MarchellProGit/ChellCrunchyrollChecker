@@ -6,6 +6,8 @@
 ### High-Speed Crunchyroll Auth Checker
 **Author: Marchell Adi Pratama • ChellSpace Security Labs**
 
+[![Visitors](https://komarev.com/ghpvc/?username=MarchellProGit-ChellCrunchyrollChecker&color=0080FF&style=for-the-badge&label=VISITORS)](https://github.com/MarchellProGit/ChellCrunchyrollChecker)
+[![Repo Size](https://img.shields.io/github/repo-size/MarchellProGit/ChellCrunchyrollChecker?style=for-the-badge&color=38BDF8)](https://github.com/MarchellProGit/ChellCrunchyrollChecker)
 [![Build](https://img.shields.io/badge/Build-v1.0.0--PROD-00ff41?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MarchellProGit/ChellCrunchyrollChecker/releases)
 [![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11_x64-38BDF8?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/MarchellProGit/ChellCrunchyrollChecker/releases)
 [![License](https://img.shields.io/badge/License-Proprietary_EULA-F97316?style=for-the-badge&logo=shield&logoColor=white)](#terms-of-service--license)
